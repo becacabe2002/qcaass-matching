@@ -1,0 +1,96 @@
+﻿StudyID,Title,DOI
+1,Q|SI>: A Quantum Programming Environment,10.1007/978-3-030-01461-2_8
+2,|Lib>: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,10.1007/978-3-030-50433-5_35
+3,Challenges in Software Development and Deployment of Quantum Services,10.1201/9788770046336-2
+4,A cross-platform execution engine for the quantum intermediate representation,10.1007/s11227-025-07969-2
+5,A Design Framework for the Simulation of Distributed Quantum Computing,10.1145/3659996.3660035
+6,A Guide for Quantum Web Services Deployment,10.1007/978-3-031-09917-5_42
+7,A Model-Driven Framework for Composition-Based Quantum Circuit Design,10.1145/3688856
+8,A Novel Scheduling Framework for Multi-Programming Quantum Computing in Cloud Environment,10.32604/cmc.2024.048956
+9,A QIR Toolchain with XACC,10.1109/qce57702.2023.10213
+10,A Quantum Framework for Combinatorial Optimization Problem over Graphs,10.1007/s41019-024-00269-4
+11,A Simulation Framework for Workload Management in Hybrid Quantum-HPC Cloud System,10.1145/3731599.3767548
+12,A Software Platform to Support Disaggregated Quantum Accelerators,10.1109/SCW63240.2024.00205
+13,A versatile single-photon-based quantum computing platform,10.1038/s41566-024-01403-4
+14,"An open-source, industrial-strength optimizing compiler for quantum programs",10.1088/2058-9565/ab9acb
+15,C2|Q>: Unifying Classical and Quantum Programming,10.1145/3672608.37079
+16,Choreography and Profiling of Quantum-Classical FaaS Workflows on Hybrid Clouds,10.1109/CCGRID64434.2025.00069
+17,CUDA Quantum: The Platform for Integrated Quantum-Classical Computing,10.1109/DAC56929.2023.10247886
+18,Classi|Q>: Towards a Translation Framework to Bridge the Classical-Quantum Programming Gap,10.1145/3663531.3664752
+19,Developing hybrid quantum-classical software: a software product line approach,10.1145/3643667.3648224
+20,Eclipse Qrisp QAOA: Description and Preliminary Comparison with Qiskit Counterparts,10.1007/978-3-031-85884-0_12
+22,Extending C++ for Heterogeneous Quantum-Classical Computing,10.1145/3462670
+23,GeQuPI: Quantum Program Improvement with Multi-Objective Genetic Programming,10.1016/j.jss.2024.112223
+24,HetArch: Heterogeneous Microarchitectures for Superconducting Quantum Systems,10.1145/3613424.3614300
+25,Hybrid (Quantum-Classical) Service Applications Deployment Configuration System,10.1007/978-981-96-7423-7_1
+26,Hybrid Classical-Quantum Software Services Systems: Exploration of the Rough Edges,10.1007/978-3-030-85347-1_17
+27,Implementing NChooseK on IBM Q Quantum Computer Systems,10.1007/978-3-030-21500-2_13
+28,Integrating quantum computing resources into scientific HPC ecosystems,10.1016/j.future.2024.06.058
+29,Integration of Classical and Quantum Services Using an Enterprise Service Bus,10.1007/978-3-031-49269-3_11
+30,iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments,10.1109/QSW59989.2023.00013
+31,iQuantum: A toolkit for modeling and simulation of quantum computing environments,10.1002/spe.3331
+32,isQ: An Integrated Software Stack for Quantum Programming,10.1109/tqe.2023.3275868
+33,Ket Quantum Programming,10.1145/3474224
+34,LinguaQuanta: Towards a Quantum Transpiler Between OpenQASM and Quipper,10.1007/978-3-031-62076-8_10
+35,Logical abstractions for noisy variational Quantum algorithm simulation,10.1145/3445814.3446750
+36,"Metamodel and Formalization to Model, Transform, Deploy, and Execute Quantum Workflows",10.1007/978-3-031-68165-3_6
+37,MQT Predictor: Automatic Device Selection with Device-Specific Circuit Compilation for Quantum Computing,10.1145/3673241
+38,NordIQuEst: The Nordic-Estonian Quantum Computing e-Infrastructure Quest,10.1007/978-3-031-86240-3_8
+39,One Nine Availability of a Photonic Quantum Computer on the Cloud Toward HPC Integration,10.1109/qce57702.2023.10193
+40,OpenMP-Q: Quantum Task Offloading in OpenMP,10.1007/978-3-032-06343-4_6
+41,OpenQL: A Portable Quantum Programming Framework for Quantum Accelerators,10.1145/3474222
+42,Orchestrating Quantum-HPC Workflows with Distributed Quantum Circuit Cutting,10.1145/3731599.3767547
+43,Perceval: A Software Platform for Discrete Variable Photonic Quantum Computing,10.22331/q-2023-02-21-931
+44,PlanQK - Platform and Ecosystem for Quantum Applications,10.1007/s13218-024-00865-6
+46,ProjectQ: an open source software framework for quantum computing,10.22331/q-2018-01-31-49
+47,Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL,10.1145/3183895.3183901
+48,QCSHQD: Quantum Computing as a Service for Hybrid Classical-Quantum Software Development: A Vision,10.1145/3663531.3664751
+49,QFaaS: A Serverless Function-as-a-Service framework for Quantum computing,10.1016/j.future.2024.01.018
+50,Qibo: a framework for quantum simulation with hardware acceleration,10.1088/2058-9565/ac39f5
+51,QisDAX: An Open Source Bridge from Qiskit to Trapped-Ion Quantum Devices,10.1109/qce57702.2023.00097
+52,"QISKit, Awesome SDK for Quantum Programming in Python",10.1007/978-1-4842-4218-6_4
+53,"Qiskit, Awesome SDK for Quantum Programming in Python",10.1007/978-1-4842-9991-3_6
+54,qlbm - A quantum lattice Boltzmann software framework,10.1016/j.cpc.2025.109699
+55,Qonductor: A Cloud Orchestrator for Quantum Computing,10.1145/3712285.3759785
+56,QOPS: a compiler framework for quantum circuit simulation acceleration with profile-guided optimizations,10.1007/s11227-025-07157-2
+57,QSandbox: The Agile Quantum Software Sandbox,10.1007/978-3-031-64136-7_4
+58,qSOA: Dynamic integration for hybrid quantum/Classical software systems,10.1016/j.jss.2024.112061
+59,Qsun: an open-source platform towards practical quantum machine learning applications,10.1088/2632-2153/ac5997
+60,QuaCiDe: A General Purpose Quantum Circuit Design and Simulation Interface,10.1145/3665870.3665874
+61,Quantum Computing with Differentiable Quantum Transforms,10.1145/3592622
+62,Quantum Inspire: QuTech's platform for co-development and collaboration in quantum computing,10.1117/12.2551853
+63,Quantum Mini-Apps: A Framework for Developing and Benchmarking Quantum-HPC Applications,10.1145/3659996.3660036
+64,Quantum Service-oriented Computing: A Proposal for Quantum Software as a Service,10.1201/9788770046336
+65,Quantum Services Generation and Deployment Process: A Quality-Oriented Approach,10.1007/978-3-031-43703-8_15
+66,Quantum Software Ecosystem Design,10.1007/978-3-031-64136-7_7
+67,Quantum software framework: a tentative study,10.1007/s11704-012-2168-x
+68,Quantum++: A modern C++ quantum computing library,10.1371/journal.pone.0208073
+69,QuantumPath: A quantum software development platform,10.1002/spe.3064
+70,QuantumShare: Towards an Ontology for Bridging the Quantum Divide,10.1007/978-3-031-47262-6_22
+71,QUASIM: Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing,10.1007/s13218-024-00860-x
+72,Qubernetes: Towards a unified cloud-native execution platform for hybrid classic-quantum computing,10.1016/j.infsof.2024.107529
+73,QuCloudSim: A Customizable Discrete Event Simulator for Quantum Cloud Computing Enviroment,10.1109/QCNC64685.2025.00018
+74,Quff: A Dynamically Typed Hybrid Quantum-Classical Programming Language,10.1145/3679007.3685063
+75,Quingo: A Programming Framework for Heterogeneous Quantum-Classical Computing with NISQ Features,10.1145/3483528
+76,Qunicorn: A Middleware for the Unified Execution Across Heterogeneous Quantum Cloud Offerings,10.1109/q-se66736.2025.00009
+77,Quokka: A Service Ecosystem for Workflow-Based Execution of Variational Quantum Algorithms,10.1007/978-3-031-26507-5_35
+78,Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing,10.1145/3731545.3744153
+79,ScaffCC: a framework for compilation and analysis of quantum computing programs,10.1145/2597917.2597939
+80,Scaling Hybrid Quantum--HPC Applications with the Quantum Framework,10.1145/3731599.3767553
+81,Shaking Up Quantum Simulators with Fuzzing and Rigour,10.1145/3763100
+82,Software for Massively Parallel Quantum Computing,10.1007/978-3-031-37966-6_6
+83,Strawberry Fields: A Software Platform for Photonic Quantum Computing,10.22331/q-2019-03-11-129
+84,t|ket>: a retargetable compiler for NISQ devices,10.1088/2058-9565/ab8e92
+85,Tetris: A Compilation Framework for VQA Applications in Quantum Computing,10.1109/isca59077.2024.00029
+86,The Arrow Calculus as a Quantum Programming Language,10.1007/978-3-642-02261-6_30
+87,The NISQ Analyzer: Automating the Selection of Quantum Computers for Quantum Algorithms,10.1007/978-3-030-64846-6_5
+88,Toolchain for faster iterations in quantum software development,10.1007/s00607-025-01450-x
+89,Towards a user-centric HPC-QC environment,10.1145/3731599.3767549
+90,Towards Higher-Level Abstractions for Quantum Computing,10.1145/3511616.3513106
+91,Towards Quantum-algorithms-as-a-service,10.1145/3549036.3562056
+92,Trusted Execution Environments for Quantum Computers,10.1145/3658644.3690855
+93,tweedledum: a compiler companion for quantum computing,10.23919/DATE54114.2022.9774510
+94,Using Open API for the Development of Hybrid Classical-Quantum Services,10.1007/978-3-031-26507-5_34
+95,Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures,10.1145/3696443.3708965
+96,XACC: a system-level software infrastructure for heterogeneous quantum–classical computing,10.1088/2058-9565/ab6bf6
+97,"Yao.jl: Extensible, Efficient Framework for Quantum Algorithm Design",10.22331/q-2020-10-11-341

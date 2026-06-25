@@ -1,0 +1,38 @@
+StudyID,title,search_strings,repositories,methods
+16,Choreography and Profiling of Quantum-Classical FaaS Workflows on Hybrid Clouds,ss2,ieeexplore,doi;title
+17,CUDA Quantum: The Platform for Integrated Quantum-Classical Computing,ss4,ieeexplore,doi;title
+2,: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,ss2;ss4,springer,doi;title
+20,Eclipse Qrisp QAOA: Description and&#xa0;Preliminary Comparison with&#xa0;Qiskit Counterparts,ss4,springer,doi
+22,Extending C++ for Heterogeneous Quantum-Classical Computing,ss4,acm,doi;title
+25,Hybrid (Quantum-Classical) Service Applications Deployment Configuration System,ss2;ss4,springer,doi;title
+26,Hybrid Classical-Quantum Software Services Systems: Exploration of the Rough Edges,ss2;ss4,springer,doi;title
+27,Implementing NChooseK on IBM Q Quantum Computer Systems,ss4,springer,doi;title
+28,Integrating quantum computing resources into scientific HPC ecosystems,ss4,sciencedirect,doi;title
+29,Integration of&#xa0;Classical and&#xa0;Quantum Services Using an&#xa0;Enterprise Service Bus,ss2;ss4,springer,doi
+3,2 Challenges in Software Development and Deployment of Quantum Services,ss2,ieeexplore,title
+30,iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments,ss2,ieeexplore,doi;title
+31,iQuantum: A toolkit for modeling and simulation of quantum computing environments,ss2,wiley,doi;title
+33,Quantum Programming,ss4,springer,title
+34,LinguaQuanta: Towards a&#xa0;Quantum Transpiler Between OpenQASM and&#xa0;Quipper,ss4,springer,doi
+36,"Metamodel and&#xa0;Formalization to&#xa0;Model, Transform, Deploy, and&#xa0;Execute Quantum Workflows",ss2;ss4,springer,doi
+38,NordIQuEst: The&#xa0;Nordic–Estonian Quantum Computing e–Infrastructure Quest,ss2;ss4,springer,doi
+39,One Nine Availability of a Photonic Quantum Computer on the Cloud Toward HPC Integration,ss2,ieeexplore,doi;title
+40,OpenMP-Q: Quantum Task Offloading in&#xa0;OpenMP,ss4,springer,doi
+42,Orchestrating Quantum-HPC Workflows with Distributed Quantum Circuit Cutting,ss4,ieeexplore,doi;title
+48,QCSHQD: Quantum Computing as a Service for Hybrid Classical-Quantum Software Development: A Vision,ss2,acm,doi;title
+49,QFaaS: A Serverless Function-as-a-Service framework for Quantum computing,ss2,sciencedirect,doi;title
+54,qlbm – A quantum lattice Boltzmann software framework,ss4,sciencedirect,doi;title
+58,qSOA®: Dynamic integration for hybrid quantum/Classical software systems,ss2;ss4,sciencedirect,doi;title
+6,A Guide for&#xa0;Quantum Web Services Deployment,ss2;ss4,springer,doi
+64,Quantum Service-oriented Computing: A Proposal for Quantum Software as a Service,ss2,ieeexplore,title
+65,Quantum Services Generation and&#xa0;Deployment Process: A Quality-Oriented Approach,ss2;ss4,springer,doi
+7,A Model-Driven Framework for Composition-Based Quantum Circuit Design,ss4,acm,doi;title
+70,QuantumShare: Towards an&#xa0;Ontology for&#xa0;Bridging the&#xa0;Quantum Divide,ss2;ss4,springer,doi
+73,QuCloudSim: A Customizable Discrete Event Simulator for Quantum Cloud Computing Enviroment,ss2,ieeexplore,doi;title
+77,Quokka: A Service Ecosystem for&#xa0;Workflow-Based Execution of&#xa0;Variational Quantum Algorithms,ss2;ss4,springer,doi
+78,Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing,ss4,acm,doi;title
+8,A Novel Scheduling Framework for Multi-Programming Quantum Computing in Cloud Environment,ss2,sciencedirect,doi;title
+85,Tetris: A Compilation Framework for VQA Applications in Quantum Computing,ss4,ieeexplore,doi;title
+86,The Arrow Calculus as a Quantum Programming Language,ss4,springer,doi;title
+87,The NISQ Analyzer: Automating the Selection of Quantum Computers for Quantum Algorithms,ss2;ss4,springer,doi;title
+94,Using Open API for&#xa0;the&#xa0;Development of&#xa0;Hybrid Classical-Quantum Services,ss2;ss4,springer,doi
