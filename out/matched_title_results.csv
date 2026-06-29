@@ -1,27 +1,52 @@
 final_idx,final_title,merged_title,score,doi,search_strings,repositories
-1,|Lib>: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,94.85714285714286,10.1007/978-3-030-50433-5_35,ss2;ss4,springer
+1,|Lib>: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,: A Cross-Platform Programming Framework for Quantum-Accelerated Scientific Computing,94.85714285714286,10.1007/978-3-030-50433-5_35,ss2;ss4;ss6,springer
 2,Challenges in Software Development and Deployment of Quantum Services,2 Challenges in Software Development and Deployment of Quantum Services,98.57142857142858,,ss2,ieeexplore
-6,A Model-Driven Framework for Composition-Based Quantum Circuit Design,A Model-Driven Framework for Composition-Based Quantum Circuit Design,100.0,10.1145/3688856,ss4,acm
-7,A Novel Scheduling Framework for Multi-Programming Quantum Computing in Cloud Environment,A Novel Scheduling Framework for Multi-Programming Quantum Computing in Cloud Environment,100.0,10.32604/cmc.2024.048956,ss2,sciencedirect
-15,Choreography and Profiling of Quantum-Classical FaaS Workflows on Hybrid Clouds,Choreography and Profiling of Quantum-Classical FaaS Workflows on Hybrid Clouds,100.0,10.1109/ccgrid64434.2025.00069,ss2,ieeexplore
-16,CUDA Quantum: The Platform for Integrated Quantum-Classical Computing,CUDA Quantum: The Platform for Integrated Quantum-Classical Computing,100.0,10.1109/dac56929.2023.10247886,ss4,ieeexplore
-20,Extending C++ for Heterogeneous Quantum-Classical Computing,Extending C++ for Heterogeneous Quantum-Classical Computing,100.0,10.1145/3462670,ss4,acm
-23,Hybrid (Quantum-Classical) Service Applications Deployment Configuration System,Hybrid (Quantum-Classical) Service Applications Deployment Configuration System,100.0,10.1007/978-981-96-7423-7_1,ss2;ss4,springer
-24,Hybrid Classical-Quantum Software Services Systems: Exploration of the Rough Edges,Hybrid Classical-Quantum Software Services Systems: Exploration of the Rough Edges,100.0,10.1007/978-3-030-85347-1_17,ss2;ss4,springer
+4,A Design Framework for the Simulation of Distributed Quantum Computing,A Design Framework for the Simulation of Distributed Quantum Computing,100.0,10.1145/3659996.3660035,ss6,acm
+6,A Model-Driven Framework for Composition-Based Quantum Circuit Design,A Model-Driven Framework for Composition-Based Quantum Circuit Design,100.0,10.1145/3688856,ss4;ss6,acm
+7,A Novel Scheduling Framework for Multi-Programming Quantum Computing in Cloud Environment,A Novel Scheduling Framework for Multi-Programming Quantum Computing in Cloud Environment,100.0,10.32604/cmc.2024.048956,ss2;ss6,sciencedirect
+8,A QIR Toolchain with XACC,A QIR Toolchain with XACC,100.0,10.1109/qce57702.2023.10213,ss6,ieeexplore
+10,A Simulation Framework for Workload Management in Hybrid Quantum-HPC Cloud System,A Simulation Framework for Workload Management in Hybrid Quantum-HPC Cloud System,100.0,10.1145/3731599.3767548,ss6,acm;ieeexplore
+11,A Software Platform to Support Disaggregated Quantum Accelerators,A Software Platform to Support Disaggregated Quantum Accelerators,100.0,10.1109/scw63240.2024.00205,ss6,acm;ieeexplore
+14,C2|Q>: Unifying Classical and Quantum Programming,C2|Q>: Unifying Classical and Quantum Programming,100.0,10.1145/3672608.3707991,ss6,acm
+15,Choreography and Profiling of Quantum-Classical FaaS Workflows on Hybrid Clouds,Choreography and Profiling of Quantum-Classical FaaS Workflows on Hybrid Clouds,100.0,10.1109/ccgrid64434.2025.00069,ss2;ss6,ieeexplore
+16,CUDA Quantum: The Platform for Integrated Quantum-Classical Computing,CUDA Quantum: The Platform for Integrated Quantum-Classical Computing,100.0,10.1109/dac56929.2023.10247886,ss4;ss6,acm;ieeexplore
+17,Classi|Q>: Towards a Translation Framework to Bridge the Classical-Quantum Programming Gap,𝐶𝑙𝑎𝑠𝑠𝑖|𝑄⟩: Towards a Translation Framework to Bridge the Classical-Quantum Programming Gap,87.77777777777777,10.1145/3663531.3664752,ss6,acm
+18,Developing hybrid quantum-classical software: a software product line approach,Developing hybrid quantum-classical software: a software product line approach,100.0,10.1145/3643667.3648224,ss6,acm
+20,Extending C++ for Heterogeneous Quantum-Classical Computing,Extending C++ for Heterogeneous Quantum-Classical Computing,100.0,10.1145/3462670,ss4;ss6,acm
+21,GeQuPI: Quantum Program Improvement with Multi-Objective Genetic Programming,GeQuPI: Quantum Program Improvement with Multi-Objective Genetic Programming,100.0,10.1016/j.jss.2024.112223,ss6,sciencedirect
+22,HetArch: Heterogeneous Microarchitectures for Superconducting Quantum Systems,HetArch: Heterogeneous Microarchitectures for Superconducting Quantum Systems,100.0,10.1145/3613424.3614300,ss6,acm
+23,Hybrid (Quantum-Classical) Service Applications Deployment Configuration System,Hybrid (Quantum-Classical) Service Applications Deployment Configuration System,100.0,10.1007/978-981-96-7423-7_1,ss2;ss4;ss6,springer
+24,Hybrid Classical-Quantum Software Services Systems: Exploration of the Rough Edges,Hybrid Classical-Quantum Software Services Systems: Exploration of the Rough Edges,100.0,10.1007/978-3-030-85347-1_17,ss2;ss4;ss6,springer
 25,Implementing NChooseK on IBM Q Quantum Computer Systems,Implementing NChooseK on IBM Q Quantum Computer Systems,100.0,10.1007/978-3-030-21500-2_13,ss4,springer
-26,Integrating quantum computing resources into scientific HPC ecosystems,Integrating quantum computing resources into scientific HPC ecosystems,100.0,10.1016/j.future.2024.06.058,ss4,sciencedirect
-28,iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments,iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments,100.0,10.1109/qsw59989.2023.00013,ss2,ieeexplore
-29,iQuantum: A toolkit for modeling and simulation of quantum computing environments,iQuantum: A toolkit for modeling and simulation of quantum computing environments,100.0,10.1002/spe.3331,ss2,wiley
-31,Ket Quantum Programming,Quantum Programming,90.47619047619048,10.1007/10722010_6,ss4,springer
-37,One Nine Availability of a Photonic Quantum Computer on the Cloud Toward HPC Integration,One Nine Availability of a Photonic Quantum Computer on the Cloud Toward HPC Integration,100.0,10.1109/qce57702.2023.10193,ss2,ieeexplore
-40,Orchestrating Quantum-HPC Workflows with Distributed Quantum Circuit Cutting,Orchestrating Quantum-HPC Workflows with Distributed Quantum Circuit Cutting,100.0,10.1145/3731599.3767547,ss4,ieeexplore
-45,QCSHQD: Quantum Computing as a Service for Hybrid Classical-Quantum Software Development: A Vision,QCSHQD: Quantum Computing as a Service for Hybrid Classical-Quantum Software Development: A Vision,100.0,10.1145/3663531.3664751,ss2,acm
-46,QFaaS: A Serverless Function-as-a-Service framework for Quantum computing,QFaaS: A Serverless Function-as-a-Service framework for Quantum computing,100.0,10.1016/j.future.2024.01.018,ss2,sciencedirect
-51,qlbm - A quantum lattice Boltzmann software framework,qlbm – A quantum lattice Boltzmann software framework,96.22641509433963,10.1016/j.cpc.2025.109699,ss4,sciencedirect
-55,qSOA: Dynamic integration for hybrid quantum/Classical software systems,qSOA®: Dynamic integration for hybrid quantum/Classical software systems,99.3006993006993,10.1016/j.jss.2024.112061,ss2;ss4,sciencedirect
+26,Integrating quantum computing resources into scientific HPC ecosystems,Integrating quantum computing resources into scientific HPC ecosystems,100.0,10.1016/j.future.2024.06.058,ss4;ss6,sciencedirect
+28,iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments,iQuantum: A Case for Modeling and Simulation of Quantum Computing Environments,100.0,10.1109/qsw59989.2023.00013,ss2;ss6,ieeexplore
+29,iQuantum: A toolkit for modeling and simulation of quantum computing environments,iQuantum: A toolkit for modeling and simulation of quantum computing environments,100.0,10.1002/spe.3331,ss2;ss6,wiley
+31,Ket Quantum Programming,Ket Quantum Programming,100.0,10.1145/3474224,ss6,acm
+35,MQT Predictor: Automatic Device Selection with Device-Specific Circuit Compilation for Quantum Computing,MQT Predictor: Automatic Device Selection with Device-Specific Circuit Compilation for Quantum Computing,100.0,10.1145/3673241,ss6,acm
+37,One Nine Availability of a Photonic Quantum Computer on the Cloud Toward HPC Integration,One Nine Availability of a Photonic Quantum Computer on the Cloud Toward HPC Integration,100.0,10.1109/qce57702.2023.10193,ss2;ss6,ieeexplore
+39,OpenQL: A Portable Quantum Programming Framework for Quantum Accelerators,OpenQL: A Portable Quantum Programming Framework for Quantum Accelerators,100.0,10.1145/3474222,ss6,acm
+40,Orchestrating Quantum-HPC Workflows with Distributed Quantum Circuit Cutting,Orchestrating Quantum-HPC Workflows with Distributed Quantum Circuit Cutting,100.0,10.1145/3731599.3767547,ss4;ss6,acm;ieeexplore
+44,Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL,Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL,100.0,10.1145/3183895.3183901,ss6,acm
+45,QCSHQD: Quantum Computing as a Service for Hybrid Classical-Quantum Software Development: A Vision,QCSHQD: Quantum Computing as a Service for Hybrid Classical-Quantum Software Development: A Vision,100.0,10.1145/3663531.3664751,ss2;ss6,acm
+46,QFaaS: A Serverless Function-as-a-Service framework for Quantum computing,QFaaS: A Serverless Function-as-a-Service framework for Quantum computing,100.0,10.1016/j.future.2024.01.018,ss2;ss6,sciencedirect
+48,QisDAX: An Open Source Bridge from Qiskit to Trapped-Ion Quantum Devices,QisDAX: An Open Source Bridge from Qiskit to Trapped-Ion Quantum Devices,100.0,10.1109/qce57702.2023.00097,ss6,ieeexplore
+51,qlbm - A quantum lattice Boltzmann software framework,qlbm – A quantum lattice Boltzmann software framework,96.22641509433963,10.1016/j.cpc.2025.109699,ss4;ss6,sciencedirect
+52,Qonductor: A Cloud Orchestrator for Quantum Computing,Qonductor: A Cloud Orchestrator for Quantum Computing,100.0,10.1145/3712285.3759785,ss6,acm
+55,qSOA: Dynamic integration for hybrid quantum/Classical software systems,qSOA®: Dynamic integration for hybrid quantum/Classical software systems,99.3006993006993,10.1016/j.jss.2024.112061,ss2;ss4;ss6,sciencedirect
+58,Quantum Computing with Differentiable Quantum Transforms,Quantum Computing with Differentiable Quantum Transforms,100.0,10.1145/3592622,ss6,acm
 61,Quantum Service-oriented Computing: A Proposal for Quantum Software as a Service,Quantum Service-oriented Computing: A Proposal for Quantum Software as a Service,100.0,,ss2,ieeexplore
-70,QuCloudSim: A Customizable Discrete Event Simulator for Quantum Cloud Computing Enviroment,QuCloudSim: A Customizable Discrete Event Simulator for Quantum Cloud Computing Enviroment,100.0,10.1109/qcnc64685.2025.00018,ss2,ieeexplore
-75,Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing,Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing,100.0,10.1145/3731545.3744153,ss4,acm
-82,Tetris: A Compilation Framework for VQA Applications in Quantum Computing,Tetris: A Compilation Framework for VQA Applications in Quantum Computing,100.0,10.1109/isca59077.2024.00029,ss4,ieeexplore
+66,QuantumPath: A quantum software development platform,QuantumPath: A quantum software development platform,100.0,10.1002/spe.3064,ss6,wiley
+69,Qubernetes: Towards a unified cloud-native execution platform for hybrid classic-quantum computing,Qubernetes: Towards a unified cloud-native execution platform for hybrid classic-quantum computing,100.0,10.1016/j.infsof.2024.107529,ss6,sciencedirect
+70,QuCloudSim: A Customizable Discrete Event Simulator for Quantum Cloud Computing Enviroment,QuCloudSim: A Customizable Discrete Event Simulator for Quantum Cloud Computing Enviroment,100.0,10.1109/qcnc64685.2025.00018,ss2;ss6,ieeexplore
+71,Quff: A Dynamically Typed Hybrid Quantum-Classical Programming Language,Quff: A Dynamically Typed Hybrid Quantum-Classical Programming Language,100.0,10.1145/3679007.3685063,ss6,acm
+72,Quingo: A Programming Framework for Heterogeneous Quantum-Classical Computing with NISQ Features,Quingo: A Programming Framework for Heterogeneous Quantum-Classical Computing with NISQ Features,100.0,10.1145/3483528,ss6,acm
+75,Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing,Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing,100.0,10.1145/3731545.3744153,ss4;ss6,acm
+76,ScaffCC: a framework for compilation and analysis of quantum computing programs,ScaffCC: a framework for compilation and analysis of quantum computing programs,100.0,10.1145/2597917.2597939,ss6,acm
+77,Scaling Hybrid Quantum--HPC Applications with the Quantum Framework,Scaling Hybrid Quantum--HPC Applications with the Quantum Framework,100.0,10.1145/3731599.3767553,ss6,acm
+78,Shaking Up Quantum Simulators with Fuzzing and Rigour,Shaking Up Quantum Simulators with Fuzzing and Rigour,100.0,10.1145/3763100,ss6,acm
+82,Tetris: A Compilation Framework for VQA Applications in Quantum Computing,Tetris: A Compilation Framework for VQA Applications in Quantum Computing,100.0,10.1109/isca59077.2024.00029,ss4;ss6,acm;ieeexplore
 83,The Arrow Calculus as a Quantum Programming Language,The Arrow Calculus as a Quantum Programming Language,100.0,10.1007/978-3-642-02261-6_30,ss4,springer
 84,The NISQ Analyzer: Automating the Selection of Quantum Computers for Quantum Algorithms,The NISQ Analyzer: Automating the Selection of Quantum Computers for Quantum Algorithms,100.0,10.1007/978-3-030-64846-6_5,ss2;ss4,springer
+86,Towards a user-centric HPC-QC environment,Towards a user-centric HPC-QC environment,100.0,10.1145/3731599.3767549,ss6,acm
+88,Towards Quantum-algorithms-as-a-service,Towards Quantum-algorithms-as-a-service,100.0,10.1145/3549036.3562056,ss6,acm
+92,Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures,Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures,100.0,10.1145/3696443.3708965,ss6,acm
